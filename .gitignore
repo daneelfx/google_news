@@ -1,0 +1,11 @@
+/google_news_scraper/
+/__pycache__/
+/.ipynb_checkpoints/
+/.pytest_cache/
+/news*/
+/logs/
+/credentials.json
+/*.log
+/*.csv
+/*.pkl
+
